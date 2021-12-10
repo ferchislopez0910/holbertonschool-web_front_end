@@ -1,0 +1,14 @@
+/**
+ * 1-style.css
+ *
+ * Task 1 - Description General
+ * When scrolling is triggered on the html element itself, 
+ * we’d like the behavior of the scroll to be as fluid as possible.
+ * Author: Carlos Garcia
+ * Note: Please don't copy, God is watching you
+ * Warning: This code is cursed, jajaja Relax enjoy it
+ */
+
+html{
+    scroll-behavior: smooth;
+}  
